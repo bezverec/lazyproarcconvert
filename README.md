@@ -1,5 +1,5 @@
 # LazyProArcConvert ![version](https://img.shields.io/badge/dynamic/toml?url=https://raw.githubusercontent.com/bezverec/lazyproarcconvert/main/Cargo.toml&query=$.package.version&label=version&prefix=v)
-TUI nástroj na přípravu TIFF skenů pro ProArc na pracovních stanicích. S experimentálním ALTO prohlížečkou / editorem, podporou **Grok** kodeku a **Tesseract OCR**.
+TUI nástroj na přípravu TIFF skenů pro ProArc na pracovních stanicích. S experimentální ALTO prohlížečkou / editorem, podporou **Grok** kodeku a **Tesseract OCR**.
 
 Vznikl z potřeby ulevit serverům a využít výkonné pracovní stanice s OS Windows.
 

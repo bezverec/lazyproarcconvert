@@ -4,7 +4,7 @@ TUI nástroj na přípravu TIFF skenů pro [ProArc](https://github.com/proarc/pr
 Vznikl z potřeby ulevit serverům a využít výkonné pracovní stanice s OS Windows.
 
 
-## SW požadavky pro Windows release (vše součástí Windows releasů)
+## SW požadavky pro Windows release (vše součástí Windows [releasů](https://github.com/bezverec/lazyproarcconvert/releases))
 - **Microsoft Visual C++ 2015-2022 Redistributable Package** (nutno nainstalovat, pokud ještě není)
 - **Grok 20.0.4** nebo novější (nemusí se instalovat)
 - **Tesseract OCR** (nemusí se instalovat, může se nainstalovat)

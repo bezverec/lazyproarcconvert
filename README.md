@@ -27,3 +27,6 @@ Vznikl z potřeby ulevit serverům a využít výkonné pracovní stanice s OS W
 
 
 <img width="1269" height="1236" alt="lazyalto001" src="https://github.com/user-attachments/assets/be9861d3-f3cb-4bff-bacd-06aaa77bfad4" />
+
+## AI generated code disclosure
+Kód vygenerovalo ChatGTP 5.2 a Deepseek.

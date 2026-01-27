@@ -17,7 +17,7 @@ serde_json = "1"
 
 # Obrázkové knihovny pro TIFF a WebP konverzi
 image = { version = "0.25", default-features = false, features = ["tiff"] }
-webp = "0.2.6"  # Přímá podpora WebP formátu
+webp = "0.3.1"  # Přímá podpora WebP formátu
 
 [profile.release]
 opt-level = "z"
